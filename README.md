@@ -28,7 +28,9 @@ First iteration of my personal website. This site serves as a showcase for my cr
 
 * ***Frontend***: [GatsbyJS](https://www.gatsbyjs.org/)
 * ***CMS***: [Ghost](https://ghost.org/)
-* 
+* ***Hosting***[DigitalOcean](https://digitalocean.com)
+* ***Deployment***: [Netlify](https://netlify.com)
+* ***CDN***: [DigitalOcean](https://digitalocean.com)
 
 ## Installation
 
