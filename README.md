@@ -56,4 +56,5 @@ First iteration of my personal website. This site serves as a showcase for my cr
 * <del>[Where should I host my static website?](https://yrezgui.com/blog/2018/04/where-should-i-host-my-static-website)</del>
 * [Gridsome Docs](https://gridsome.org/docs/)
 * [ZEIT Gridsome Example](https://github.com/zeit/now/tree/master/examples/gridsome)
+* [Vue Now UI Kit](https://demos.creative-tim.com/vue-now-ui-kit/#/)
 * 
