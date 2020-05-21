@@ -51,3 +51,4 @@ First iteration of my personal website. This site serves as a showcase for my cr
 * [This](https://www.conordewey.com/blog/building-my-blog-with-gatsby-and-ghost/) blog article by Conor Dewey
 * [Build a custom static site with headless Ghost + Gatsby](https://ghost.org/docs/api/v3/gatsby/)
 * [Where should I host my static website?](https://yrezgui.com/blog/2018/04/where-should-i-host-my-static-website)
+* [Create a personal website with ReactJS](https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/)
