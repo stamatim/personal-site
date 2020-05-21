@@ -26,10 +26,10 @@ First iteration of my personal website. This site serves as a showcase for my cr
 
 ### Built With 
 
-* ***Frontend***: [GatsbyJS](https://www.gatsbyjs.org/)
-* ***CMS***: [Ghost](https://ghost.org/)
+* ***Frontend***: ReactJS
+* ***CMS***: Ghost
 * ***Hosting***[DigitalOcean](https://digitalocean.com)
-* ***Deployment***: [Netlify](https://netlify.com)
+* ***Deployment***: [Vercel](https://vercel.com)
 * ***CDN***: [DigitalOcean](https://digitalocean.com)
 
 ## Installation
