@@ -32,9 +32,6 @@ First iteration of my personal website. This site serves as a showcase for my cr
 * <del>***Deployment***: [Netlify](https://netlify.com)</del>
 * <del>***CDN***: [DigitalOcean](https://digitalocean.com)</del>
 
-* ***Frontend***: [Gridsome](https://gridsome.org/docs/)
-* ***Deployment***: [ZEIT Now](https://zeit.co/)
-
 ## Installation
 
 *TODO*
@@ -57,4 +54,3 @@ First iteration of my personal website. This site serves as a showcase for my cr
 * [Gridsome Docs](https://gridsome.org/docs/)
 * [ZEIT Gridsome Example](https://github.com/zeit/now/tree/master/examples/gridsome)
 * [Vue Now UI Kit](https://demos.creative-tim.com/vue-now-ui-kit/#/)
-* 
