@@ -17,7 +17,7 @@ The first iteration of my personal website. This site serves as a showcase for m
 ### Built With 
 
 * ***Frontend***: [Bootstrap](https://getbootstrap.com/)
-* ***Hosting***: [Hostinger](https://hostinger.com)
+* ***Hosting***: [Vercel](https://vercel.com)
 
 ## License
 
