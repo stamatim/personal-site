@@ -1,5 +1,5 @@
-# stamatimorellas.com - v1
-The first iteration of my personal website. This site serves as a showcase for my creative and professional work as a software developer, music enthusaist, and photographer. 
+# My Portfolio Website (v1)
+The first iteration of my personal website. This site serves primarily as a showcase for my skills and experience as a software engineer, photographer, and music enthusiast.
 
 
 ### Site Structure
@@ -10,8 +10,9 @@ The first iteration of my personal website. This site serves as a showcase for m
 |   +-- experience
 |   +-- education
 |   +-- skills
+|   +-- projects
 |   +-- interest
-|   +-- blog (Coming Soon)
+|   +-- blog
 ```
 
 ### Built With 
