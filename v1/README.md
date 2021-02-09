@@ -17,8 +17,16 @@ The first iteration of my personal website. This site serves primarily as a show
 
 ### Built With 
 
-* ***Frontend***: [Bootstrap](https://getbootstrap.com/)
-* ***Hosting***: [Vercel](https://vercel.com)
+### Website
+* [Bootstrap](https://getbootstrap.com/) – Front-end
+* [Vercel](https://vercel.com/) – Web server
+
+### Analytics
+* [Umami](https://umami.is/) - Self-hosted analytics platform
+* [DigitalOcean](https://digitalocean.com/) - Cloud server instance (Ubuntu 18.04 LTS)
+* [MySQL](https://mysql.com/) – Database
+* [NGINX](https://nginx.org) – Web server
+* [Node.js](https://nodejs.org) – JavaScript runtime environment
 
 ## License
 
